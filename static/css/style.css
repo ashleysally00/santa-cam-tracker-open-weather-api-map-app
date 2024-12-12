@@ -1,0 +1,66 @@
+#map {
+  height: 70vh;
+  width: 100%;
+}
+
+#santa-cam {
+  height: 30vh;
+  width: 100%;
+  background-color: #000;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.weather-panel {
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.weather-panel h4 {
+  margin: 0 0 5px 0;
+  color: #333;
+}
+
+.weather-panel p {
+  margin: 5px 0;
+  color: #666;
+}
+
+#santa-cam {
+  position: relative;
+  height: 30vh;
+  width: 100%;
+  background-color: #87ceeb; /* Light blue sky background */
+  overflow: hidden; /* Hide sleigh when off screen */
+}
+
+#santa-cam {
+  position: relative;
+  height: 30vh;
+  width: 100%;
+  background-color: #87ceeb; /* Light blue sky background */
+  overflow: hidden;
+}
+
+.snowflake {
+  animation: fall 8s linear;
+}
+
+.raindrop {
+  animation: fall 4s linear;
+}
+
+@keyframes fall {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(100vh);
+  }
+}
