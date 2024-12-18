@@ -4,8 +4,6 @@
 
 The **Santa Cam Tracker** shows Santa's location on the map and calls the OpenWeather API to fetch and display the current weather for his location. Additionally, the animated sleigh is visible flying in the Santa Cam viewer for a magical experience.
 
-I'll help format this as a markdown README with the video link and embedded image. 
-
 # Watch the Santa's Sleigh Video!
 
 [![Santa's Sleigh Video](https://github.com/ashleysally00/santa-cam-tracker-open-weather-api-map-app/blob/main/thumbnail-Sora-video.png)](https://sora.com/g/gen_01jf0q73reehksjme8c90aernp)
