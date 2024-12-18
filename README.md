@@ -12,7 +12,7 @@ This video was created using **Sora**, an AI video generator that has high resol
 
 ## Video Prompt Details
 
-Here's the prompt used to generate the video:
+Here's the prompt I used to generate the video:
 
 * **Scene 1 (3 seconds):** Start with a festive intro showing a map lighting up with a moving sleigh icon.
 
