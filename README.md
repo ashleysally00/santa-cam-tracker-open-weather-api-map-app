@@ -8,7 +8,7 @@ The **Santa Cam Tracker** shows Santa's location on the map and calls the OpenWe
 
 [![Santa's Sleigh Video](https://github.com/ashleysally00/santa-cam-tracker-open-weather-api-map-app/blob/main/thumbnail-Sora-video.png)](https://sora.com/g/gen_01jf0q73reehksjme8c90aernp)
 
-This video was created using **Sora**, an AI video generator that has high resolution (up to 1080p) and fast rendering times. (Though I have just started experimenting with it, I like it for storytelling or building immersive experiences.
+This video was created using **Sora**, an AI video generator that has high resolution (up to 1080p) and fast rendering times. Though I have just started experimenting with it, I like it for storytelling or building immersive experiences.
 
 ## Video Prompt Details
 
